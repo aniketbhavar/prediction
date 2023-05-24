@@ -271,7 +271,7 @@ def main():
 
   html1="""
     <div style="text-align:center; text-shadow: 3px 1px 2px purple;">
-      <h1>👨🏻‍💻 Student career guidence 👨🏻‍💻</h1>
+      <h1>👨🏻‍💻 Career Path Prediction app 👨🏻‍💻</h1>
     </div>
       """
   st.markdown(html1,unsafe_allow_html=True) #simple html 
@@ -476,8 +476,8 @@ def main():
 
   html3="""
 
-    <div style="color:black; margin:80px; text-align:center;">
-      Developed with ❤️ by <a > Aniket Bhavar </a>
+    <div style="color:yellow; margin:80px; text-align:center;">
+      Developed with ❤️ by <a href=https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/> Hrugved Kolhe</a>
     </div>
       """
 
